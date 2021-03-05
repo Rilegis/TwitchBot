@@ -1,0 +1,21 @@
+{
+  "bot": {
+    "username": "BotUsername",
+    "oauth": "oauth:**********************",
+    "ownerHost": "username!username@username.tmi.twitch.tv",
+    "ownerID": "Owner's UserID",
+    "trigger": "!",
+    "channels": [
+      "channel1",
+      "channel2",
+      "..."
+    ]
+  },
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "dbname": "DB Name",
+    "username": "username",
+    "password": "password"
+  }
+}
