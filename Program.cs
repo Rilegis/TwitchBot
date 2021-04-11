@@ -9,6 +9,8 @@
     Date        Author      Ref     Revision 
     22/12/2019  Rilegis     1       Added file header.
     18/04/2020  Rilegis     2       Moved from WebSocketSharp to TwitchLib
+    11/04/2021  Rilegis     3       Changed target framework from 'NET Core 3.1' to '.NET 5'
+                                    and updated packages.
 **********************************************************************/
 
 using System;
